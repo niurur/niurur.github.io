@@ -18,8 +18,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 <div style="display: flex; align-items: center;">
   <img src="https://avatars.githubusercontent.com/u/147193757?s=200&v=4" alt="Your Photo" style="width: 150px; height: auto; margin-right: 20px;">
   <p style="flex: 1;">
-    I'm a research and development engineer with strong interest in applied research and software development. My background encompasses embedded electronics, control systems, Python web applications, and Linux server administration.
-    Apart form that I'm expertised in e-learning solutions, Moodle administration and developing academic process automation tools.
+    I'm a research and development engineer with strong interest in applied research and software development. My background encompasses embedded electronics, control systems, Python web applications, and Linux server administration. Apart form that I'm expertised in e-learning solutions, Moodle administration and developing process automation tools.
   </p>
 </div>
 
@@ -94,13 +93,16 @@ datasets. The developed method can differentiate a real face and a face on a dig
 
 
 - ### **Driver assist system for reversing long articulated vehicles**
-	- An innovation for reversing two pivoted articulated vehicles while keeping the stability.
+	- An innovation for reversing two pivoted articulated vehicles while keeping the stability. Fully automatic prototype and a semi autonomous prototype was built.
 
    - **Domains**: *Control systems*, *Robotics*, *Computer vision*, *Embedded electronics*, *C++*.
 
-      <img src="logos/c.png" alt="C++ Logo" width="35" />  
+      <img src="logos/c.png" alt="C++ Logo" width="30" />  
       <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
       <img src="logos/rpi.png" alt="RaspberryPi Logo" width="120" />
+      <img src="logos/matlab.png" alt="MATLAB Logo" width="120" />
+      <img src="logos/octave.png" alt="Octave Logo" width="80" />
+
 
       <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
@@ -125,8 +127,21 @@ datasets. The developed method can differentiate a real face and a face on a dig
 
 
 - ### **Erasmus+ Capacity Building Project (TEAL2.0 - Technology Enabled Active Learning)**
-   - Worked as a lead developer and as a teacher/trainer/reseacher to bring the project alive.
-   - 
+   ![TEAL Partner Map](images/teal_map.png "TEAL Partner Map")
+   - The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
+   - I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application. 
+   - Project page: https://teal.cs.ait.ac.th
+   - **Domains**: *Web applications*, *API*, *Moodle*, *Linux*, *Server administration*,*Databases*. 
+
+      <img src="logos/python.png" alt="Python Logo" width="100" />
+      <img src="logos/plotlydash.png" alt="Plotly Dash Logo" width="130" />
+      <img src="logos/ubuntu.png" alt="Ubuntu Logo" width="140" />
+      <img src="logos/nginx.png" alt="Nginx Logo" width="55" />
+     
+     
+      <img src="logos/galera.png" alt="Galera Logo" width="140" />
+      <img src="logos/mariadb.png" alt="MariaDB Logo" width="65" />
+      <img src="logos/moodle.png" alt="Moodle Logo" width="140" />
 
 
 
