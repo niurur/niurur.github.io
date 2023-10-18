@@ -5,7 +5,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 ## Table of Contents
 - [About Me](#about-me)
 - [Academic Qualifications](#academic-qualifications)
-- [Project Highlights](#Project-Highlights)
+- [Project Highlights](#project-highlights)
 - [Projects](#projects)
 - [Contact Information](#contact-information)
 
@@ -48,7 +48,7 @@ Apart form that I'm expertied in e-learning solutions, Moodle administration and
   - <a href="https://youtu.be/Dd0xkXaIFKc" target="_blank">▶️ View project Video.</a>
 
 ## Project Highlights
-Here are some interesting projects I've worked on that have immensely helped me gain hands-on experience in research, computer vision, control systems, and programming. 
+Following are some interesting projects I've worked on that have immensely helped me gain hands-on experience in research, computer vision, control systems, and programming. 
 
 
 - ### **Vision-Based Technical Drawing Analyzing Software (Hauptberechnung - Software für Bearbeitungsberechnungen)**
@@ -60,7 +60,6 @@ Here are some interesting projects I've worked on that have immensely helped me 
       <img src="logos/python.png" alt="Python Logo" width="100" />
       <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
       <img src="logos/keras.png" alt="Keras Logo" width="100" />
-      
       <img src="logos/tensorflow.png" alt="Keras Logo" width="120" />
       <img src="logos/qt.png" alt="Qt Logo" width="50" />
 
