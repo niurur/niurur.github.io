@@ -57,11 +57,12 @@ Following are some interesting projects I've worked on that have immensely helpe
    - Software consist of 4 modes [Halbautonomer Modus, Automatischer Modus, Tabellenmodus,Taschenrechner-Modus]
    - **Domains**: *Computer vision*, *Python*, *Machine learning*.
    
-      <img src="logos/python.png" alt="Python Logo" width="100" />
+      <img src="logos/python.png" alt="Python Logo" width="100" />  
+      <img src="logos/numpy.png" alt="Numpy Logo" width="90" />
       <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
-      <img src="logos/keras.png" alt="Keras Logo" width="100" />
-      <img src="logos/tensorflow.png" alt="Keras Logo" width="120" />
-      <img src="logos/qt.png" alt="Qt Logo" width="50" />
+      <img src="logos/keras.png" alt="Keras Logo" width="110" />
+      <img src="logos/tensorflow.png" alt="TensorFlow Logo" width="160" />
+      <img src="logos/qt.png" alt="Qt Logo" width="60" />
 
       <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank" rel="noopener noreferrer">▶️ See software in action</a> (Add combined full video here)
 
@@ -78,6 +79,12 @@ Following are some interesting projects I've worked on that have immensely helpe
 	- A spoof detection solution for existing face recognition based access control system.
 Developed a method to recognize spoofing attempts based on classical methods and trained
 datasets. The developed method can differentiate a real face and a face on a digital display.
+   - This integrated with existing monocular surveillance cameras to enable contactless door unlocking during Covid-19.
+   - **Domains**: *Computer vision*, *Python*.
+
+      <img src="logos/python.png" alt="Python Logo" width="100" />
+      <img src="logos/cython.png" alt="Python Logo" width="75" />
+      <img src="logos/opencv.png" alt="Python Logo" width="100" />  
 
       <a href="https://www.youtube.com/watch?v=RlmB60kQhCA" target="_blank" rel="noopener noreferrer">▶️ See algorithm in action</a>
 
@@ -88,6 +95,11 @@ datasets. The developed method can differentiate a real face and a face on a dig
 - ### **Driver assist system for reversing long articulated vehicles**
 	- An innovation for reversing two pivoted articulated vehicles while keeping the stability.
 
+   - **Domains**: *Control systems*, *Robotics*, *Computer vision*, *Embedded electronics*, *C++*.
+
+      <img src="logos/c.png" alt="C++ Logo" width="35" />  
+      <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+      <img src="logos/rpi.png" alt="RaspberryPi Logo" width="120" />
 
       <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
@@ -97,6 +109,11 @@ datasets. The developed method can differentiate a real face and a face on a dig
 - ### **Monocular Vision-Based Obstacle Avoidance Algorithm and Networking Infrastructure for Controlling Remote Mobile Robots**
 	- Development of a vision-based monocular obstacle-avoidance algorithm for mobile robots. A prototype was built, and the algorithm was tested, incorporating optical flow and edge-based obstacle avoidance methods.
 	- Creation of an infrastructure for remotely controlling mobile robots by processing data with minimal onboard hardware. Developed in conjunction with the monocular obstacle-avoiding project
+   - **Domains**: *Control systems*, *Robotics*, *Computer vision*, *Embedded electronics*.
+
+      <img src="logos/python.png" alt="Python Logo" width="100" />  
+      <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+
 
        <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
