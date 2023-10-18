@@ -60,6 +60,7 @@ Following are some interesting projects I've worked on that have immensely helpe
       <img src="logos/python.png" alt="Python Logo" width="100" />  
       <img src="logos/numpy.png" alt="Numpy Logo" width="90" />
       <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+
       <img src="logos/keras.png" alt="Keras Logo" width="110" />
       <img src="logos/tensorflow.png" alt="TensorFlow Logo" width="160" />
       <img src="logos/qt.png" alt="Qt Logo" width="60" />
@@ -138,12 +139,6 @@ datasets. The developed method can differentiate a real face and a face on a dig
 
 
 
-
-
-6. **Driver Assist System for Reversing Long Articulated Vehicles**
-   - Description: Innovation in reversing two pivoted articulated vehicles while maintaining stability. This product has a pending patent.
-   - https://youtu.be/3WWz0k3Fpig
-
 7. **Semi-Automated Fabric Puller Machine**
    - Description: Creation of a machine to semi-automate the turning mechanism of fabric straps, allowing processing of multiple straps simultaneously.
    - https://youtube.com/shorts/NxAfiiuhjH0
@@ -151,8 +146,6 @@ datasets. The developed method can differentiate a real face and a face on a dig
 8. **Fully Automated Elastic Ring Machine**
    - Description: Development of a fully automated machine capable of stitching elastic rings at different sizes when raw materials are loaded.
    - https://youtu.be/ZxNXgUo5cGw
-
-## Projects - Other
 
 
 2. **2D Plotter**
