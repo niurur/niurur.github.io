@@ -19,7 +19,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
   <img src="https://avatars.githubusercontent.com/u/147193757?s=200&v=4" alt="Your Photo" style="width: 150px; height: auto; margin-right: 20px;">
   <p style="flex: 1;">
     I'm a research and development engineer with strong interest in applied research and software development. My background encompasses embedded electronics, control systems, Python web applications, and Linux server administration.
-    Apart form that I'm expertied in e-learning solutions, Moodle administration and developing academic process automation tools.
+    Apart form that I'm expertised in e-learning solutions, Moodle administration and developing academic process automation tools.
   </p>
 </div>
 
