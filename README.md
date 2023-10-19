@@ -1,4 +1,4 @@
-# Niuru Ranaweera's Technical Portfolio
+# Niuru Ranaweera - Technical Portfolio
 
 Welcome to my technical portfolio! This repository serves as a collection of my hands-on experience, academic qualifications, and projects.
 
@@ -22,11 +22,6 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
   </p>
 </div>
 
-<!--
-I'm a research and development engineer with strong interest in applied research and software development. My background encompasses embedded electronics, control systems, Python web applications, and Linux server administration.
-
-Apart form that I'm expertied in e-learning solutions, Moodle administration and developing academic process automation tools.
---> 
 
 ## Academic Qualifications
 
@@ -146,13 +141,23 @@ datasets. The developed method can differentiate a real face and a face on a dig
 
 
 
+- ### **Coursera course selection tool**
+   - An app for students to easily search for optimum courses to study using various search criteria.
+   - Visit app: 
+
+
+- ### **LMS analytics dashboard**
+   -  Web-based dashboards to view student/teacher performance and admin panel to generate weekly attendance.
+
+
+- ### **Time table search tool**
+   -  Entire university timetable at one place where anyone can search by subjects, rooms, teachers etc.
+   - See demo:
+
+
+
+
 ## Other Projects
-
-1. **IoT-Based Wi-Fi Switch Design**
-   - Description: Development of an ESP8266-based device that can be controlled from a centralized server, facilitating access control system management. This design offers wireless, low-cost installation and is adaptable for integration with face and gesture recognition systems.
-
-
-
 
 7. **Semi-Automated Fabric Puller Machine**
    - Description: Creation of a machine to semi-automate the turning mechanism of fabric straps, allowing processing of multiple straps simultaneously.
@@ -167,17 +172,13 @@ datasets. The developed method can differentiate a real face and a face on a dig
    - *Description*: A simple 2D plotter based on GRBL, capable of wireless connectivity with computers through Bluetooth for sending G-codes.
    - https://youtu.be/J0Gonuj2iAM
 
+2. **Smart Garden**
+   - *Description*:  An IoT project, with the ability to automatically control the lighting conditions, watering the plants according
+   to the requirements, sending Twitter alerts in emergencies and monitoring the parameters over the internet.
+   - View block diagram
 
-
-4. **Portable ECG Monitor**
-   - *Description*: A portable ECG monitoring device prototype that interfaces with smartphones. The system includes a battery-operated hardware device with ECG probes and an Android application. The device connects to the smartphone wirelessly via low-power Bluetooth and can analyze the ECG wave, providing notifications for abnormalities and displaying the BPM. Developed as part of a group project for ACES Hackathon.
-
-5. **Smartphone Controlled Wireless Robot**
-   - *Description*: A robot controlled via Bluetooth using an Android application, with the road view displayed through an IP camera.
-
-6. **POV Display**
-   - *Description*: An LED display that uses the persistence of vision to display patterns or characters. It was implemented using a PIC877A MCU.
-
+2. **Covid robot**
+   - Contibuted with technical support
 
 ## Contact Information
 
