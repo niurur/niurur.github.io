@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Niuru Ranaweera - Technical Portfolio</h1>
+<h1 style="text-align: center;">Niuru's - Technical Portfolio</h1>
 <!-- <hr style="border:2px solid gray"> -->
 Welcome to my technical portfolio! This repository serves as a collection of my hands-on experience, academic qualifications, and projects.
 
@@ -31,6 +31,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
   - <a href="theses/msc-thesis.pdf" target="_blank">View Thesis.</a>
   - <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank"> ▶️ View Project Video.</a>
 
+   <br>
 
 - **B.Sc Engineering (Hons) in Electrical and Electronic Engineering (GPA 3.20/4.00)**
   - Graduated from University of Peradeniya, Oct 2015
@@ -39,14 +40,16 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
   - <a href="theses/bsc-project.pdf" target="_blank">View Project Report.</a>
   - <a href="https://youtu.be/Dd0xkXaIFKc" target="_blank">▶️ View project Video.</a>
 
+<br>
+
+
 ## Project Highlights
 Following are some interesting projects I've worked on that have immensely helped me gain hands-on experience in research, computer vision, embedded electronics, and programming. 
 
 
 - ### **Vision-Based Technical Drawing Analyzing Software (Hauptberechnung - Software für Bearbeitungsberechnungen)**
-	- I developed a prototype software for the manufacturing industry in Germany that analyzes specific sections of technical drawings and automatically extracts content using computer vision algorithms.
-   - This software is intended to use for the time and cost estimation for the production.
-   - Software consist of 4 modes [Halbautonomer Modus, Automatischer Modus, Tabellenmodus,Taschenrechner-Modus]
+	- I developed a prototype software for the manufacturing industry in Germany that analyzes specific sections of technical drawings and automatically extracts content using computer vision algorithms for production time/cost estimation.
+   - Software consist of 4 modes for convinient operation [Halbautonomer Modus, Automatischer Modus, Tabellenmodus,Taschenrechner-Modus]
    - **Domains**: *Computer vision*, *Python*, *Machine learning*.
    
       <img src="logos/python.png" alt="Python Logo" width="100" />  
@@ -57,11 +60,14 @@ Following are some interesting projects I've worked on that have immensely helpe
       <img src="logos/tensorflow.png" alt="TensorFlow Logo" width="160" />
       <img src="logos/qt.png" alt="Qt Logo" width="60" />
 
+      <br>
+
       <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank" rel="noopener noreferrer">▶️ See software in action</a> (Add combined full video here)
 
       [![Video Title](https://img.youtube.com/vi/UQYkOeLD5Vo/0.jpg)](https://www.youtube.com/watch?v=UQYkOeLD5Vo)
 
-      
+      <br>
+
       <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank" rel="noopener noreferrer">▶️ Glimpse into the interior </a>
 
       [![Video Title](https://img.youtube.com/vi/RgiKApZXbhc/0.jpg)](https://www.youtube.com/watch?v=RgiKApZXbhc)
@@ -69,15 +75,17 @@ Following are some interesting projects I've worked on that have immensely helpe
 
 
 - ### **Spoof Detection Algorithm**
-	- I developed a spoof detection solution for existing face recognition based access control system. 
-   - Developed a methods to recognize spoofing attempts based on classical methods and trained datasets. The developed method can differentiate a real face and a face on a digital display.
+	- I developed a spoof detection solution for face recognition based access control system. 
+   - Methods were developed to recognize spoofing attempts based on classical methods and trained datasets. The developed method can differentiate a real face and a face on a digital display.
    - This system was integrated with existing monocular surveillance cameras to enable contactless access control during Covid-19.
-   - **Domains**: *Computer vision*, *Python*.
+   - **Domains**: *Computer vision*, *Machine learning*, *Python*.
 
       <img src="logos/python.png" alt="Python Logo" width="100" />
       <img src="logos/cython.png" alt="Python Logo" width="75" />
       <img src="logos/opencv.png" alt="Python Logo" width="100" />  
-
+      
+      <br>
+      
       <a href="https://www.youtube.com/watch?v=RlmB60kQhCA" target="_blank" rel="noopener noreferrer">▶️ See algorithm in action</a>
 
 
@@ -95,7 +103,7 @@ Following are some interesting projects I've worked on that have immensely helpe
       <img src="logos/matlab.png" alt="MATLAB Logo" width="120" />
       <img src="logos/octave.png" alt="Octave Logo" width="80" />
 
-
+      <br>
       <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
       [![Video Title](https://img.youtube.com/vi/3WWz0k3Fpig/0.jpg)](https://www.youtube.com/watch?v=3WWz0k3Fpig)
@@ -103,12 +111,14 @@ Following are some interesting projects I've worked on that have immensely helpe
 
 - ### **Monocular Vision-Based Obstacle Avoidance Algorithm and Networking Infrastructure for Controlling Remote Mobile Robots**
 	- Development of a vision-based monocular obstacle-avoidance algorithm for mobile robots. A prototype was built, and the algorithm was tested, incorporating optical flow and edge-based obstacle avoidance methods.
-	- Creation of an infrastructure for remotely controlling mobile robots by processing data with minimal onboard hardware. Developed in conjunction with the monocular obstacle-avoiding project
+	- As a part of the requirement an infrastructure developed for remotely controlling mobile robots by processing data with minimal onboard hardware. 
    - **Domains**: *Computer vision*, *Control systems*, *Robotics*, *Embedded electronics*.
+
 
       <img src="logos/python.png" alt="Python Logo" width="100" />  
       <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
 
+      <br>
 
        <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
@@ -119,10 +129,12 @@ Following are some interesting projects I've worked on that have immensely helpe
 
 
 - ### **Erasmus+ Capacity Building Project (TEAL2.0 - Technology Enabled Active Learning)**
-   ![TEAL Partner Map](images/teal_map.png "TEAL Partner Map")
-   - The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
-   - I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application in the servers. 
+   - ![TEAL Partner Map](images/teal_map.png "TEAL Partner Map")
    - Project page: https://teal.cs.ait.ac.th
+   - The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
+   - I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application in the servers.
+   - Apart from that I did Linux server management and Moodle administration across partner universities in Thailand, India and Sri
+Lanka.
    - **Domains**: *Web applications*, *API*, *Moodle*, *Linux*, *Server administration*,*Databases*, *Database clusters*. 
 
       <img src="logos/python.png" alt="Python Logo" width="100" />
