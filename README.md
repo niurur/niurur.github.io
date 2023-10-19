@@ -1,5 +1,5 @@
-# Niuru Ranaweera - Technical Portfolio
-
+<h1 style="text-align: center;">Niuru Ranaweera - Technical Portfolio</h1>
+<hr style="border:2px solid gray">
 Welcome to my technical portfolio! This repository serves as a collection of my hands-on experience, academic qualifications, and projects.
 
 ## Table of Contents
