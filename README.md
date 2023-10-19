@@ -11,14 +11,12 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 
 
 
-
-
 ## About Me
 
 <div style="display: flex; align-items: center;">
   <img src="https://avatars.githubusercontent.com/u/147193757?s=200&v=4" alt="Your Photo" style="width: 150px; height: auto; margin-right: 20px;">
   <p style="flex: 1;">
-    I'm a research and development engineer with strong interest in applied research and software development. My background encompasses embedded electronics, control systems, Python web applications, and Linux server administration. Apart form that I'm expertised in e-learning solutions, Moodle administration and developing process automation tools.
+    I'm a research and development engineer with strong interest in applied research and software development. My background encompasses computer vision, python applications, embedded electronics and control systems. Apart form that I'm expertised in e-learning solutions, Moodle administration, Linux server administration and developing process automation tools.
   </p>
 </div>
 
@@ -42,7 +40,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
   - <a href="https://youtu.be/Dd0xkXaIFKc" target="_blank">▶️ View project Video.</a>
 
 ## Project Highlights
-Following are some interesting projects I've worked on that have immensely helped me gain hands-on experience in research, computer vision, control systems, and programming. 
+Following are some interesting projects I've worked on that have immensely helped me gain hands-on experience in research, computer vision, embedded electronics, and programming. 
 
 
 - ### **Vision-Based Technical Drawing Analyzing Software (Hauptberechnung - Software für Bearbeitungsberechnungen)**
@@ -71,10 +69,9 @@ Following are some interesting projects I've worked on that have immensely helpe
 
 
 - ### **Spoof Detection Algorithm**
-	- A spoof detection solution for existing face recognition based access control system.
-Developed a method to recognize spoofing attempts based on classical methods and trained
-datasets. The developed method can differentiate a real face and a face on a digital display.
-   - This integrated with existing monocular surveillance cameras to enable contactless door unlocking during Covid-19.
+	- I developed a spoof detection solution for existing face recognition based access control system. 
+   - Developed a methods to recognize spoofing attempts based on classical methods and trained datasets. The developed method can differentiate a real face and a face on a digital display.
+   - This system was integrated with existing monocular surveillance cameras to enable contactless access control during Covid-19.
    - **Domains**: *Computer vision*, *Python*.
 
       <img src="logos/python.png" alt="Python Logo" width="100" />
@@ -90,7 +87,7 @@ datasets. The developed method can differentiate a real face and a face on a dig
 - ### **Driver assist system for reversing long articulated vehicles**
 	- An innovation for reversing two pivoted articulated vehicles while keeping the stability. Fully automatic prototype and a semi autonomous prototype was built.
 
-   - **Domains**: *Control systems*, *Robotics*, *Computer vision*, *Embedded electronics*, *C++*.
+   - **Domains**:  *Robotics*, *Computer vision*, *Control systems*, *Embedded electronics*, *C++*.
 
       <img src="logos/c.png" alt="C++ Logo" width="30" />  
       <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
@@ -107,7 +104,7 @@ datasets. The developed method can differentiate a real face and a face on a dig
 - ### **Monocular Vision-Based Obstacle Avoidance Algorithm and Networking Infrastructure for Controlling Remote Mobile Robots**
 	- Development of a vision-based monocular obstacle-avoidance algorithm for mobile robots. A prototype was built, and the algorithm was tested, incorporating optical flow and edge-based obstacle avoidance methods.
 	- Creation of an infrastructure for remotely controlling mobile robots by processing data with minimal onboard hardware. Developed in conjunction with the monocular obstacle-avoiding project
-   - **Domains**: *Control systems*, *Robotics*, *Computer vision*, *Embedded electronics*.
+   - **Domains**: *Computer vision*, *Control systems*, *Robotics*, *Embedded electronics*.
 
       <img src="logos/python.png" alt="Python Logo" width="100" />  
       <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
@@ -124,9 +121,9 @@ datasets. The developed method can differentiate a real face and a face on a dig
 - ### **Erasmus+ Capacity Building Project (TEAL2.0 - Technology Enabled Active Learning)**
    ![TEAL Partner Map](images/teal_map.png "TEAL Partner Map")
    - The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
-   - I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application. 
+   - I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application in the servers. 
    - Project page: https://teal.cs.ait.ac.th
-   - **Domains**: *Web applications*, *API*, *Moodle*, *Linux*, *Server administration*,*Databases*. 
+   - **Domains**: *Web applications*, *API*, *Moodle*, *Linux*, *Server administration*,*Databases*, *Database clusters*. 
 
       <img src="logos/python.png" alt="Python Logo" width="100" />
       <img src="logos/plotlydash.png" alt="Plotly Dash Logo" width="130" />
@@ -143,7 +140,7 @@ datasets. The developed method can differentiate a real face and a face on a dig
 
 - ### **Coursera course selection tool**
    - An app for students to easily search for optimum courses to study using various search criteria.
-   - Visit app: 
+   - Visit app: https://apps.sltc.ac.lk/coursera-course-selection/
 
 
 - ### **LMS analytics dashboard**
