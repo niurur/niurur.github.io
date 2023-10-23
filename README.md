@@ -28,7 +28,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
   - Graduated from University of Peradeniya, Nov 2019.
   - I specialized in Control Systems and Instrumentation and achieved the highest grades, particularly excelling in subjects such as Pattern Recognition, Artificial Intelligence, and Embedded Systems.
   - Thesis title: **Driver assisted steering system for reversing an articulated vehicle.**
-  - <a href="theses/msc-thesis.pdf" target="_blank">View Thesis.</a>
+  - <a href="theses/msc-thesis.pdf" target="_blank">🗎 View Thesis.</a>
   - <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank"> ▶️ View Project Video.</a>
 
    <br>
@@ -37,7 +37,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
   - Graduated from University of Peradeniya, Oct 2015
   - Final year project title: **Modeling a driving mechanism for a spherical robot.**
   - This project has won first place at the IEEE undergraduate project symposium 2015.
-  - <a href="theses/bsc-project.pdf" target="_blank">View Project Report.</a>
+  - <a href="theses/bsc-project.pdf" target="_blank">🗎 View Project Report.</a>
   - <a href="https://youtu.be/Dd0xkXaIFKc" target="_blank">▶️ View project Video.</a>
 
 <br>
