@@ -241,25 +241,22 @@ Lanka.
 - GitHub: [GitHub Profile](https://github.com/nrnw)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/niurur)
 - Send a message
+   <form action="https://formspree.io/f/mpzgbbpw" method="POST">
 
-<form action="https://formspree.io/f/mpzgbbpw" method="POST" style="background-color: #f5f5f5; padding: 30px; border: 1px solid #e0e0e0; border-radius: 10px; max-width: 40%; margin: 40px;">
+   <label style="display: block; margin-bottom: 10px;">
+      Your email:
+      <input type="email" name="email" style="display: block; width: 250px;">
+   </label>
 
-  <label style="display: block; margin-bottom: 10px; font-weight: bold; color: black;">
-    Your Name:
-    <input type="text" name="name" style="width: 100%; padding: 10px; margin: 5px 0; border: 1px solid #ccc; border-radius: 5px;">
-  </label>
+   <label style="display: block; margin-bottom: 10px;">
+      Your message:
+      <textarea name="message" style="display: block; width: 250px;height: 50px;"></textarea>
+   </label>
 
-  <label style="display: block; margin-bottom: 10px; font-weight: bold;color: black;">
-    Your Email:
-    <input type="email" name="email" style="width: 100%; padding: 10px; margin: 5px 0; border: 1px solid #ccc; border-radius: 5px;"  </label>
+   <button type="submit">Send</button>
+   </form>
 
-  <label style="display: block; margin-bottom: 10px; font-weight: bold;color: black;">
-    Your Message:
-    <textarea name="message" style="width: 100%; padding: 10px; margin: 5px 0; border: 1px solid #ccc; border-radius: 5px;"></textarea>
-  </label>
 
-  <button type="submit" style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Send</button>
 
-</form>
 
 
