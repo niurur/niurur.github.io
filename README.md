@@ -51,15 +51,15 @@ Following are some interesting projects I've worked on that have immensely helpe
 <br>
 <br>
 
-- ## **Vision-Based Technical Drawing Analyzing Software <br> (Hauptberechnung - Software für Bearbeitungsberechnungen)**
-	- I developed a prototype software for the manufacturing industry in Germany that analyzes specific sections of technical drawings and automatically extracts content using computer vision algorithms for production time/cost estimation.
+### **Vision-Based Technical Drawing Analyzing Software <br> (Hauptberechnung - Software für Bearbeitungsberechnungen)**
+   - I developed a prototype software for the manufacturing industry in Germany that analyzes specific sections of technical drawings and automatically extracts content using computer vision algorithms for production time/cost estimation.
    - Software consist of 4 modes for convinient operation [Halbautonomer Modus, Automatischer Modus, Tabellenmodus,Taschenrechner-Modus]
    - **Domains**: *Computer vision*, *Python*, *Machine learning*.
    
       <img src="logos/python.png" alt="Python Logo" width="100" />  
       <img src="logos/numpy.png" alt="Numpy Logo" width="90" />
       <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
-
+      <br>
       <img src="logos/keras.png" alt="Keras Logo" width="110" />
       <img src="logos/tensorflow.png" alt="TensorFlow Logo" width="160" />
       <img src="logos/qt.png" alt="Qt Logo" width="60" />
@@ -68,14 +68,39 @@ Following are some interesting projects I've worked on that have immensely helpe
 
       <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank" rel="noopener noreferrer">▶️ See software in action</a> (Add combined full video here)
 
-      [![Video Title](https://img.youtube.com/vi/UQYkOeLD5Vo/0.jpg)](https://www.youtube.com/watch?v=UQYkOeLD5Vo)
+      <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank">
+      <img src="https://img.youtube.com/vi/UQYkOeLD5Vo/0.jpg" alt="Hauptberechnung">
+      </a>
 
       <br>
 
       <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank" rel="noopener noreferrer">▶️ Glimpse into the interior </a>
 
-      [![Video Title](https://img.youtube.com/vi/RgiKApZXbhc/0.jpg)](https://www.youtube.com/watch?v=RgiKApZXbhc)
+      <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank">
+      <img src="https://img.youtube.com/vi/RgiKApZXbhc/0.jpg" alt="DNN">
+      </a>
 
+
+<div style="display: flex; align-items: center;">
+
+   <div style="margin-right: 10px;margin-left: 40px;">  
+   <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank" rel="noopener noreferrer">▶️ See software in action</a>
+
+   <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank">
+   <img src="https://img.youtube.com/vi/UQYkOeLD5Vo/0.jpg" alt="Hauptberechnung">
+   </a>
+
+   </div>
+
+
+   <div>
+   <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank" rel="noopener noreferrer">▶️ Glimpse into the interior </a>
+
+   <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank">
+   <img src="https://img.youtube.com/vi/RgiKApZXbhc/0.jpg" alt="DNN">
+   </a>
+   </div>
+</div>
 
 
 - ### **Spoof Detection Algorithm**
