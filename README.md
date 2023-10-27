@@ -241,7 +241,16 @@ Lanka.
 - GitHub: [GitHub Profile](https://github.com/nrnw)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/niurur)
 - Send a message
+   
+   <br>
+   
    <form action="https://formspree.io/f/mpzgbbpw" method="POST">
+
+
+   <label style="display: block; margin-bottom: 10px;">
+      Your name:
+      <input type="text" name="name" style="display: block; width: 250px;">
+   </label>
 
    <label style="display: block; margin-bottom: 10px;">
       Your email:
