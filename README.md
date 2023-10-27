@@ -69,9 +69,9 @@ Following are some interesting projects I've worked on that have immensely helpe
 
 
    <div style="margin-left: 40px;">  
-   <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank" rel="noopener noreferrer">▶️ See software in action</a>
+   <a href="https://youtu.be/Z7qGtxPWRwk" target="_blank" rel="noopener noreferrer">▶️ See software in action</a>
 
-   <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank">
+   <a href="https://youtu.be/Z7qGtxPWRwk" target="_blank">
    <img src="thumbnails/vision1.png" alt="Hauptberechnung">
    </a>
 
@@ -157,7 +157,7 @@ Following are some interesting projects I've worked on that have immensely helpe
 
 - Project page: <a href="https://teal.cs.ait.ac.th" target="_blank"> https://teal.cs.ait.ac.th </a>
 - The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
-- I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application in the servers.
+- I worked as a developer and as a teacher/trainer/reseacher to make this project a success. I was resposible for developments, deployments and testing of the application in the servers.
 - Apart from that I did Linux server management and Moodle administration across partner universities in Thailand, India and Sri
 Lanka.
 - **Domains**: *Web applications*, *API*, *Moodle*, *Linux*, *Server administration*,*Databases*, *Database clusters*. 
