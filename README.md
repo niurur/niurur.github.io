@@ -14,9 +14,12 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 ## About Me
 
 <div style="display: flex; align-items: center;">
-  <img src="images/pp.jpg" alt="PP" style="width: 170px; height: auto; margin: 40px;">
+  <img src="images/pp.jpg" alt="PP" style="width: 180px; height: auto; margin-right: 40px;margin-left: 40px;">
   <p style="flex: 1;">
-    I'm a research and development engineer with strong interest in applied research and software development. My background encompasses computer vision, python applications, embedded electronics and control systems. Apart form that I'm expertised in e-learning solutions, Moodle administration, Linux server administration and developing process automation tools.
+    I'm a research and development engineer with a keen interest towards applied research and software development. My diverse technical background spans various fields, including computer vision, Python applications, embedded electronics, and control systems.  Apart from that, I have expertise in e-learning solutions, Linux server administration and developing process automation tools.
+    <br>
+    <br>
+    I'm enthusiastic about solving complex problems and creating innovative solutions that bridge the gap between theory and real-world applications.
   </p>
 </div>
 
@@ -26,7 +29,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 
 - **M.Sc Eng. in Electrical and Electronic Engineering (GPA 3.84/4.00)**
   - Graduated from University of Peradeniya, Nov 2019.
-  - I specialized in Control Systems and Instrumentation and achieved the highest grades, particularly excelling in subjects such as Pattern Recognition, Artificial Intelligence, and Embedded Systems.
+  - Specialized in Control Systems and Instrumentation and achieved the highest grades, particularly excelling in subjects such as Pattern Recognition for Smart Systems, Artificial Intelligence for Smart Systems, and Advanced Embedded Systems Design.
   - Thesis title: **Driver assisted steering system for reversing an articulated vehicle.**
   - <a href="theses/msc-thesis.pdf" target="_blank">🗎 View Thesis.</a>
   - <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank"> ▶️ View Project Video.</a>
@@ -34,9 +37,9 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
    <br>
 
 - **B.Sc Engineering (Hons) in Electrical and Electronic Engineering (GPA 3.20/4.00)**
-  - Graduated from University of Peradeniya, Oct 2015
+  - Graduated from University of Peradeniya, Oct 2015.
   - Final year project title: **Modeling a driving mechanism for a spherical robot.**
-  - This project has won first place at the IEEE undergraduate project symposium 2015.
+  - This project has won first place at the IEEE undergraduate project symposium, 2015.
   - <a href="theses/bsc-project.pdf" target="_blank">🗎 View Project Report.</a>
   - <a href="https://youtu.be/Dd0xkXaIFKc" target="_blank">▶️ View project Video.</a>
 
@@ -45,9 +48,10 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 
 ## Project Highlights
 Following are some interesting projects I've worked on that have immensely helped me gain hands-on experience in research, computer vision, embedded electronics, and programming. 
+<br>
+<br>
 
-
-- ### **Vision-Based Technical Drawing Analyzing Software (Hauptberechnung - Software für Bearbeitungsberechnungen)**
+- ## **Vision-Based Technical Drawing Analyzing Software <br> (Hauptberechnung - Software für Bearbeitungsberechnungen)**
 	- I developed a prototype software for the manufacturing industry in Germany that analyzes specific sections of technical drawings and automatically extracts content using computer vision algorithms for production time/cost estimation.
    - Software consist of 4 modes for convinient operation [Halbautonomer Modus, Automatischer Modus, Tabellenmodus,Taschenrechner-Modus]
    - **Domains**: *Computer vision*, *Python*, *Machine learning*.
