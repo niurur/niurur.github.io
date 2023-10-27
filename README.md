@@ -238,8 +238,12 @@ Lanka.
 ## Contact
 
 
-- GitHub: [GitHub Profile](https://github.com/nrnw)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/niurur)
+- <a href="https://github.com/nrnw" target="_blank">
+   Github
+   </a>
+- <a href="https://www.linkedin.com/in/niurur" target="_blank">
+   LinkedIn
+   </a>
 - Send a message
    
    <br>
