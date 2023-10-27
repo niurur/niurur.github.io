@@ -6,8 +6,8 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 - [About Me](#about-me)
 - [Academic Qualifications](#academic-qualifications)
 - [Project Highlights](#project-highlights)
-- [Projects](#projects)
-- [Contact Information](#contact-information)
+- [Other Projects](#other-projects)
+- [Contact](#contact)
 
 
 
@@ -124,12 +124,11 @@ Following are some interesting projects I've worked on that have immensely helpe
 
       <br>
 
-      <img src="gif/reversing-trailers.gif" alt="Fully automatic prototype" width="60%" />   
 
-      <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
+      <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank" rel="noopener noreferrer"> ▶️ See Full Project Video</a>
 
       <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank">
-      <img src="thumbnails/driveassit.png" alt="Drive assist">
+      <img src="gif/reversing-trailers.gif" alt="Fully automatic prototype" width="60%" />  
       </a>
 
 <br>
@@ -148,7 +147,7 @@ Following are some interesting projects I've worked on that have immensely helpe
        <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
       <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank">
-      <img src="thumbnails/monocular.png" alt="Drive assist">
+      <img src="thumbnails/monocular2.png" alt="Drive assist">
       </a>
 
 <br>
@@ -156,7 +155,7 @@ Following are some interesting projects I've worked on that have immensely helpe
 
 ### **Erasmus+ Capacity Building Project (TEAL2.0 - Technology Enabled Active Learning)**
 
-- Project page: https://teal.cs.ait.ac.th
+- Project page: <a href="https://teal.cs.ait.ac.th" target="_blank"> https://teal.cs.ait.ac.th </a>
 - The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
 - I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application in the servers.
 - Apart from that I did Linux server management and Moodle administration across partner universities in Thailand, India and Sri
@@ -174,55 +173,91 @@ Lanka.
    <img src="logos/moodle.png" alt="Moodle Logo" width="140" />
    <br>
    <br>
+
+- Partner map
+
    <img src="images/teal_map.png" alt="TEAL Partner Map" width="80%" />  
 
+<br>
 
-- ### **Coursera course selection tool**
-   - An app for students to easily search for optimum courses to study using various search criteria.
-   - Visit app: https://apps.sltc.ac.lk/coursera-course-selection/
+### **Coursera course selection tool**
+- An app for students to easily search for optimum courses to study using various search criteria.
+- Visit app: <a href="https://apps.sltc.ac.lk/coursera-course-selection" target="_blank"> https://apps.sltc.ac.lk/coursera-course-selection </a>
 
+<!-- <br>
 
-- ### **LMS analytics dashboard**
-   -  Web-based dashboards to view student/teacher performance and admin panel to generate weekly attendance.
+### **LMS analytics dashboard**
+- Web-based dashboards to view student/teacher performance and admin panel to generate weekly attendance.
 
+<br>
 
-- ### **Time table search tool**
-   -  Entire university timetable at one place where anyone can search by subjects, rooms, teachers etc.
-   - See demo:
+### **Time table search tool**
+-  Entire university timetable at one place where anyone can search by subjects, rooms, teachers etc. -->
 
+<br>
 
 
 
 ## Other Projects
 
-7. **Semi-Automated Fabric Puller Machine**
-   - Description: Creation of a machine to semi-automate the turning mechanism of fabric straps, allowing processing of multiple straps simultaneously.
-   - https://youtube.com/shorts/NxAfiiuhjH0
+### **Semi-Automated Fabric Puller Machine**
+- Creation of a machine to semi-automate the turning mechanism of fabric straps, allowing processing of multiple straps simultaneously.
+- I developed the embedded software and the electronic design for the machine. Completed during undergraduate industrial training.
+- <a href="https://youtube.com/shorts/NxAfiiuhjH0" target="_blank">
+   https://youtube.com/shorts/NxAfiiuhjH0
+   </a>
 
-8. **Fully Automated Elastic Ring Machine**
-   - Description: Development of a fully automated machine capable of stitching elastic rings at different sizes when raw materials are loaded.
-   - https://youtu.be/ZxNXgUo5cGw
 
+### **Fully Automated Elastic Ring Machine**
+- Development of a fully automated machine capable of stitching elastic rings at different sizes when raw materials are loaded.
+- I contrubuted to the project by writing the embedded software and designing the electronics.  Completed during undergraduate industrial training.
+- <a href="https://youtu.be/ZxNXgUo5cGw" target="_blank">
+   https://youtu.be/ZxNXgUo5cGw
+   </a>
 
-2. **2D Plotter**
-   - *Description*: A simple 2D plotter based on GRBL, capable of wireless connectivity with computers through Bluetooth for sending G-codes.
-   - https://youtu.be/J0Gonuj2iAM
+### **2D Plotter**
+- A simple 2D plotter based on GRBL made as a hobby project, capable of wireless connectivity with computers through Bluetooth for sending G-codes.
+- <a href="https://youtu.be/J0Gonuj2iAM" target="_blank">
+   https://youtu.be/J0Gonuj2iAM
+   </a>
 
-2. **Smart Garden**
-   - *Description*:  An IoT project, with the ability to automatically control the lighting conditions, watering the plants according
+### **Smart Garden**
+- An IoT hobby project, with the ability to automatically control the lighting conditions, watering the plants according
    to the requirements, sending Twitter alerts in emergencies and monitoring the parameters over the internet.
-   - View block diagram
+- <a href="other/smartGarden.pdf" target="_blank">🗎 View block diagram. </a>
 
-2. **Covid robot**
-   - Contibuted with technical support
+### **Semi Autonomous Mobile Robot Platform for Patient Monitoring**
+- I contributed to this project by integrating the IP cameras with NVIDIA® Jetson and developing the OpenCV, Python pipeline for accessing the cameras.  
+- <a href="https://www.youtube.com/watch?v=Uwk4hrYcE8U" target="_blank">
+   https://www.youtube.com/watch?v=Uwk4hrYcE8U
+   </a>
 
-## Contact Information
+
+<br>
+
+## Contact
 
 
 - GitHub: [GitHub Profile](https://github.com/nrnw)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/___)
-- Email: email@email.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/niurur)
 
+
+   <form
+   action="https://formspree.io/f/mpzgbbpw"
+   method="POST"
+   >
+   <label>
+      Your email:
+      <input type="email" name="email">
+   </label>
+
+   <label>
+      Your message:
+      <textarea name="message"></textarea>
+   </label>
+
+   <button type="submit">Send</button>
+   </form>
 
 
 
