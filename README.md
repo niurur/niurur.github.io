@@ -246,7 +246,6 @@ Lanka.
    </a>
 - Send a message
    
-   <br>
    
    <form action="https://formspree.io/f/mpzgbbpw" method="POST">
 
