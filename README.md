@@ -53,7 +53,7 @@ Following are some interesting projects I've worked on that have immensely helpe
 
 ### **Vision-Based Technical Drawing Analyzing Software <br> (Hauptberechnung - Software für Bearbeitungsberechnungen)**
    - I developed a prototype software for the manufacturing industry in Germany that analyzes specific sections of technical drawings and automatically extracts content using computer vision algorithms for production time/cost estimation.
-   - Software consist of 4 modes for convinient operation [Halbautonomer Modus, Automatischer Modus, Tabellenmodus,Taschenrechner-Modus]
+   - Software consist of 4 modes for convinient operation [Halbautonomer Modus, Automatischer Modus, Tabellen Modus,Taschenrechner Modus]
    - **Domains**: *Computer vision*, *Python*, *Machine learning*.
    
       <img src="logos/python.png" alt="Python Logo" width="100" />  
@@ -66,45 +66,32 @@ Following are some interesting projects I've worked on that have immensely helpe
 
       <br>
 
-      <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank" rel="noopener noreferrer">▶️ See software in action</a> (Add combined full video here)
-
-      <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank">
-      <img src="https://img.youtube.com/vi/UQYkOeLD5Vo/0.jpg" alt="Hauptberechnung">
-      </a>
-
-      <br>
-
-      <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank" rel="noopener noreferrer">▶️ Glimpse into the interior </a>
-
-      <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank">
-      <img src="https://img.youtube.com/vi/RgiKApZXbhc/0.jpg" alt="DNN">
-      </a>
 
 
-<div style="display: flex; align-items: center;">
-
-   <div style="margin-right: 10px;margin-left: 40px;">  
+   <div style="margin-left: 40px;">  
    <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank" rel="noopener noreferrer">▶️ See software in action</a>
 
    <a href="https://www.youtube.com/watch?v=UQYkOeLD5Vo" target="_blank">
-   <img src="https://img.youtube.com/vi/UQYkOeLD5Vo/0.jpg" alt="Hauptberechnung">
+   <img src="thumbnails/vision1.png" alt="Hauptberechnung">
    </a>
 
    </div>
 
+   <br>
 
-   <div>
+   <div style="margin-left: 40px;">
    <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank" rel="noopener noreferrer">▶️ Glimpse into the interior </a>
 
    <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank">
-   <img src="https://img.youtube.com/vi/RgiKApZXbhc/0.jpg" alt="DNN">
+   <img src="thumbnails/dnn.png" alt="DNN">
    </a>
    </div>
-</div>
 
 
-- ### **Spoof Detection Algorithm**
-	- I developed a spoof detection solution for face recognition based access control system. 
+<br>
+
+### **Spoof Detection Algorithm**
+   - A spoof detection solution developed for face recognition based access control system. 
    - Methods were developed to recognize spoofing attempts based on classical methods and trained datasets. The developed method can differentiate a real face and a face on a digital display.
    - This system was integrated with existing monocular surveillance cameras to enable contactless access control during Covid-19.
    - **Domains**: *Computer vision*, *Machine learning*, *Python*.
@@ -118,11 +105,14 @@ Following are some interesting projects I've worked on that have immensely helpe
       <a href="https://www.youtube.com/watch?v=RlmB60kQhCA" target="_blank" rel="noopener noreferrer">▶️ See algorithm in action</a>
 
 
-      [![Video Title](https://img.youtube.com/vi/RlmB60kQhCA/0.jpg)](https://www.youtube.com/watch?v=RlmB60kQhCA)
+      <a href="https://www.youtube.com/watch?v=RlmB60kQhCA" target="_blank">
+      <img src="https://img.youtube.com/vi/RlmB60kQhCA/0.jpg" alt="Spoof detection demo">
+      </a>
 
+<br>
 
-- ### **Driver assist system for reversing long articulated vehicles**
-	- An innovation for reversing two pivoted articulated vehicles while keeping the stability. Fully automatic prototype and a semi autonomous prototype was built.
+### **Driver assist system for reversing long articulated vehicles**
+   - An innovative solution developed for reversing two pivoted articulated vehicles while keeping the stability. Fully automatic prototype and a semi autonomous prototype was built.
 
    - **Domains**:  *Robotics*, *Computer vision*, *Control systems*, *Embedded electronics*, *C++*.
 
@@ -133,13 +123,19 @@ Following are some interesting projects I've worked on that have immensely helpe
       <img src="logos/octave.png" alt="Octave Logo" width="80" />
 
       <br>
+
+      <img src="gif/reversing-trailers.gif" alt="Fully automatic prototype" width="60%" />   
+
       <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
-      [![Video Title](https://img.youtube.com/vi/3WWz0k3Fpig/0.jpg)](https://www.youtube.com/watch?v=3WWz0k3Fpig)
+      <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank">
+      <img src="thumbnails/driveassit.png" alt="Drive assist">
+      </a>
 
+<br>
 
-- ### **Monocular Vision-Based Obstacle Avoidance Algorithm and Networking Infrastructure for Controlling Remote Mobile Robots**
-	- Development of a vision-based monocular obstacle-avoidance algorithm for mobile robots. A prototype was built, and the algorithm was tested, incorporating optical flow and edge-based obstacle avoidance methods.
+### **Monocular Vision-Based Obstacle Avoidance Algorithm and Networking Infrastructure for Controlling Remote Mobile Robots**
+   - Development of a vision-based monocular obstacle-avoidance algorithm for mobile robots. A prototype was built, and the algorithm was tested, incorporating optical flow and edge-based obstacle avoidance methods.
 	- As a part of the requirement an infrastructure developed for remotely controlling mobile robots by processing data with minimal onboard hardware. 
    - **Domains**: *Computer vision*, *Control systems*, *Robotics*, *Embedded electronics*.
 
@@ -151,32 +147,34 @@ Following are some interesting projects I've worked on that have immensely helpe
 
        <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
-      [![Video Title](https://img.youtube.com/vi/KRkiUrKuoGE/0.jpg)](https://www.youtube.com/watch?v=KRkiUrKuoGE)
+      <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank">
+      <img src="thumbnails/monocular.png" alt="Drive assist">
+      </a>
+
+<br>
 
 
+### **Erasmus+ Capacity Building Project (TEAL2.0 - Technology Enabled Active Learning)**
 
-
-
-- ### **Erasmus+ Capacity Building Project (TEAL2.0 - Technology Enabled Active Learning)**
-   - ![TEAL Partner Map](images/teal_map.png "TEAL Partner Map")
-   - Project page: https://teal.cs.ait.ac.th
-   - The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
-   - I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application in the servers.
-   - Apart from that I did Linux server management and Moodle administration across partner universities in Thailand, India and Sri
+- Project page: https://teal.cs.ait.ac.th
+- The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
+- I Worked as a developer and as a teacher/trainer/reseacher to bring project a success. I was resposible for developments, deployments and testing of the application in the servers.
+- Apart from that I did Linux server management and Moodle administration across partner universities in Thailand, India and Sri
 Lanka.
-   - **Domains**: *Web applications*, *API*, *Moodle*, *Linux*, *Server administration*,*Databases*, *Database clusters*. 
+- **Domains**: *Web applications*, *API*, *Moodle*, *Linux*, *Server administration*,*Databases*, *Database clusters*. 
 
-      <img src="logos/python.png" alt="Python Logo" width="100" />
-      <img src="logos/plotlydash.png" alt="Plotly Dash Logo" width="130" />
-      <img src="logos/ubuntu.png" alt="Ubuntu Logo" width="140" />
-      <img src="logos/nginx.png" alt="Nginx Logo" width="55" />
-     
-     
-      <img src="logos/galera.png" alt="Galera Logo" width="140" />
-      <img src="logos/mariadb.png" alt="MariaDB Logo" width="65" />
-      <img src="logos/moodle.png" alt="Moodle Logo" width="140" />
+   <img src="logos/python.png" alt="Python Logo" width="100" />
+   <img src="logos/plotlydash.png" alt="Plotly Dash Logo" width="130" />
+   <img src="logos/ubuntu.png" alt="Ubuntu Logo" width="140" />
+   <img src="logos/nginx.png" alt="Nginx Logo" width="55" />
 
 
+   <img src="logos/galera.png" alt="Galera Logo" width="140" />
+   <img src="logos/mariadb.png" alt="MariaDB Logo" width="65" />
+   <img src="logos/moodle.png" alt="Moodle Logo" width="140" />
+   <br>
+   <br>
+   <img src="images/teal_map.png" alt="TEAL Partner Map" width="80%" />  
 
 
 - ### **Coursera course selection tool**
