@@ -134,21 +134,21 @@ Following are some interesting projects I've worked on that have immensely helpe
 <br>
 
 ### **Monocular Vision-Based Obstacle Avoidance Algorithm and Networking Infrastructure for Controlling Remote Mobile Robots**
-   - Development of a vision-based monocular obstacle-avoidance algorithm for mobile robots. A prototype was built, and the algorithm was tested, incorporating optical flow and edge-based obstacle avoidance methods.
-	- As a part of the requirement an infrastructure developed for remotely controlling mobile robots by processing data with minimal onboard hardware. 
-   - **Domains**: *Computer vision*, *Control systems*, *Robotics*, *Embedded electronics*.
+ - Development of a vision-based monocular obstacle-avoidance algorithm for mobile robots. A prototype was built, and the algorithm was tested, incorporating optical flow and edge-based obstacle avoidance methods.
+ - As a part of the requirement an infrastructure developed for remotely controlling mobile robots by processing data with minimal onboard hardware. 
+- **Domains**: *Computer vision*, *Control systems*, *Robotics*, *Embedded electronics*.
 
 
-      <img src="logos/python.png" alt="Python Logo" width="100" />  
-      <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+   <img src="logos/python.png" alt="Python Logo" width="100" />  
+   <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
 
-      <br>
+   <br>
 
-       <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
+   <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
 
-      <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank">
-      <img src="thumbnails/monocular2.png" alt="Drive assist">
-      </a>
+   <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank">
+   <img src="thumbnails/monocular2.png" alt="Drive assist">
+   </a>
 
 <br>
 
