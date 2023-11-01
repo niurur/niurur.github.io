@@ -160,7 +160,7 @@ Following are some interesting projects I've worked on that have immensely helpe
 - I worked as a developer and as a teacher/trainer/reseacher to make this project a success. I was resposible for developments, deployments and testing of the application in the servers.
 - Apart from that I did Linux server management and Moodle administration across partner universities in Thailand, India and Sri
 Lanka.
-- **Domains**: *Web applications*, *API*, *Moodle*, *Linux*, *Server administration*,*Databases*, *Database clusters*. 
+- **Domains**: *Web applications*, *APIs*, *Moodle*, *Linux*, *Server administration*, *Databases*, *Database clusters*. 
 
    <img src="logos/python.png" alt="Python Logo" width="100" />
    <img src="logos/plotlydash.png" alt="Plotly Dash Logo" width="130" />
