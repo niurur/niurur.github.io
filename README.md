@@ -205,7 +205,7 @@ Lanka.
 
 - App preview 
 
-   <img src="images/user_wise_LMS_analytics.jpg" alt="TEAL Partner Map" width="80%" /> 
+   <img src="images/timetable.png" alt="TEAL Partner Map" width="80%" /> 
 
 
 <br>
