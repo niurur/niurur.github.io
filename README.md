@@ -185,15 +185,23 @@ Lanka.
 
    <img src="images/coursera_course_selection_tool.jpg" alt="TEAL Partner Map" width="80%" /> 
 
-<!-- <br>
+
+
 
 ### **LMS analytics dashboard**
 - Web-based dashboards to view student/teacher performance and admin panel to generate weekly attendance.
 
+- App dashboard preview 
+
+   <img src="images/user_wise_LMS_analytics.jpg" alt="TEAL Partner Map" width="80%" /> 
+
+
 <br>
 
-### **Time table search tool**
--  Entire university timetable at one place where anyone can search by subjects, rooms, teachers etc. -->
+### **Time table search and course rescheduling tool**
+-  Entire university timetable at one place where anyone can search by subjects, rooms, teachers etc.
+
+
 
 <br>
 
