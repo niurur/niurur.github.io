@@ -24,7 +24,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 </div>
 
 
-## Academic Qualifications
+## Education
 
 
 - **M.Sc in Engineering**
@@ -219,7 +219,7 @@ Lanka.
 - <a href="https://www.youtube.com/watch?v=Uwk4hrYcE8U" target="_blank">
    https://www.youtube.com/watch?v=Uwk4hrYcE8U
    </a>
-   
+
 ### **Semi-Automated Fabric Puller Machine**
 - Creation of a machine to semi-automate the turning mechanism of fabric straps, allowing processing of multiple straps simultaneously.
 - I developed the embedded software and the electronic design for the machine. Completed during undergraduate industrial training.
