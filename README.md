@@ -16,7 +16,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 <div style="display: flex; align-items: center;">
   <img src="images/pp.jpg" alt="PP" style="width: 180px; height: auto; margin-right: 40px;margin-left: 40px;">
   <p style="flex: 1;">
-    I'm a Software Engineer with a keen interest towards software development and applied research. My diverse technical background spans various fields, including Python applications, embedded electronics, IoT solutions, and computer vision.  Apart from that, I have expertise in e-learning solutions, DevOps practices, Linux server administration and developing process automation tools.
+    I'm a Software Engineer with a keen interest towards software development and applied research. My diverse technical background spans various fields, including Python applications, embedded electronics, cloud-based IoT solutions, and computer vision.  Apart from that, I have expertise in e-learning solutions, DevOps practices, Linux server administration and developing process automation tools.
     <br>
     <br>
     I'm enthusiastic about solving complex problems and creating innovative solutions that bridge the gap between theory and real-world applications.
@@ -201,6 +201,11 @@ Lanka.
 ### **Time table search and course rescheduling tool**
 -  Entire university timetable at one place where anyone can search by subjects, rooms, teachers etc.
 
+- Admins can reschedule courses, with the app automatically displaying available time slots and lecture rooms, filtering out any potential clashes between teachers and students. 
+
+- App preview 
+
+   <img src="images/user_wise_LMS_analytics.jpg" alt="TEAL Partner Map" width="80%" /> 
 
 
 <br>
