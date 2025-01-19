@@ -214,6 +214,12 @@ Lanka.
 
 ## Other Projects
 
+### **Semi Autonomous Mobile Robot Platform for Patient Monitoring**
+- I contributed to this project by integrating the IP cameras with NVIDIA® Jetson and developing the OpenCV, Python pipeline for accessing the cameras.  
+- <a href="https://www.youtube.com/watch?v=Uwk4hrYcE8U" target="_blank">
+   https://www.youtube.com/watch?v=Uwk4hrYcE8U
+   </a>
+   
 ### **Semi-Automated Fabric Puller Machine**
 - Creation of a machine to semi-automate the turning mechanism of fabric straps, allowing processing of multiple straps simultaneously.
 - I developed the embedded software and the electronic design for the machine. Completed during undergraduate industrial training.
@@ -240,11 +246,6 @@ Lanka.
    to the requirements, sending Twitter alerts in emergencies and monitoring the parameters over the internet.
 - <a href="other/smartGarden.pdf" target="_blank">🗎 View block diagram. </a>
 
-### **Semi Autonomous Mobile Robot Platform for Patient Monitoring**
-- I contributed to this project by integrating the IP cameras with NVIDIA® Jetson and developing the OpenCV, Python pipeline for accessing the cameras.  
-- <a href="https://www.youtube.com/watch?v=Uwk4hrYcE8U" target="_blank">
-   https://www.youtube.com/watch?v=Uwk4hrYcE8U
-   </a>
 
 
 <br>
