@@ -181,7 +181,7 @@ Lanka.
 - An web app for students to easily search for optimum courses to study using various search criteria.
 <!-- - Visit app: <a href="https://apps.sltc.ac.lk/coursera-course-selection" target="_blank"> https://apps.sltc.ac.lk/coursera-course-selection </a> -->
 
-- App Dashboard Preview 
+- App dashboard preview 
 
    <img src="images/coursera_course_selection_tool.jpg" alt="TEAL Partner Map" width="80%" /> 
 
