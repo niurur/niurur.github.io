@@ -27,21 +27,21 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 ## Academic Qualifications
 
 
-- **M.Sc Eng. in Electrical and Electronic Engineering (GPA 3.84/4.00)**
+- **M.Sc in Engineering**
   - Graduated from University of Peradeniya, Nov 2019.
-  - Specialized in Control Systems and Instrumentation and achieved the highest grades, particularly excelling in subjects such as Pattern Recognition for Smart Systems, Artificial Intelligence for Smart Systems, and Advanced Embedded Systems Design.
+  - Specialized in Control Systems and Instrumentation and achieved the highest grades **(GPA 3.84/4.00)**, particularly excelling in subjects such as Pattern Recognition for Smart Systems, Artificial Intelligence for Smart Systems, and Advanced Embedded Systems Design.
   - Thesis title: **Driver assisted steering system for reversing an articulated vehicle.**
-  - <a href="theses/msc-thesis.pdf" target="_blank">🗎 View Thesis.</a>
-  - <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank"> ▶️ View Project Video.</a>
+  <!-- - <a href="theses/msc-thesis.pdf" target="_blank">🗎 View Thesis.</a>
+  - <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank"> ▶️ View Project Video.</a> -->
 
    <br>
 
-- **B.Sc Engineering (Hons) in Electrical and Electronic Engineering (GPA 3.20/4.00)**
+- **B.Sc Engineering (Hons) in Electrical and Electronic Engineering**
   - Graduated from University of Peradeniya, Oct 2015.
   - Final year project title: **Modeling a driving mechanism for a spherical robot.**
   - This project has won first place at the IEEE undergraduate project symposium, 2015.
-  - <a href="theses/bsc-project.pdf" target="_blank">🗎 View Project Report.</a>
-  - <a href="https://youtu.be/Dd0xkXaIFKc" target="_blank">▶️ View project Video.</a>
+  <!-- - <a href="theses/bsc-project.pdf" target="_blank">🗎 View Project Report.</a>
+  - <a href="https://youtu.be/Dd0xkXaIFKc" target="_blank">▶️ View project Video.</a> -->
 
 <br>
 
