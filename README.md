@@ -47,7 +47,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 
 
 ## Project Highlights
-Following are some interesting projects I've worked on that have immensely helped me gain hands-on experience in research, computer vision, embedded electronics, and programming. 
+Here are some interesting projects I've worked on that have significantly enhanced my hands-on experience in software development, Linux, computer vision, and applied research. 
 <br>
 <br>
 
@@ -181,8 +181,11 @@ Lanka.
 <br>
 
 ### **Coursera course selection tool**
-- An app for students to easily search for optimum courses to study using various search criteria.
-- Visit app: <a href="https://apps.sltc.ac.lk/coursera-course-selection" target="_blank"> https://apps.sltc.ac.lk/coursera-course-selection </a>
+- An web app for students to easily search for optimum courses to study using various search criteria.
+<!-- - Visit app: <a href="https://apps.sltc.ac.lk/coursera-course-selection" target="_blank"> https://apps.sltc.ac.lk/coursera-course-selection </a> -->
+
+- App Dashboard Preview 
+<img src="images/coursera_course_selection_tool.jpg" alt="TEAL Partner Map" width="80%" /> 
 
 <!-- <br>
 
