@@ -4,7 +4,7 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 
 ## Table of Contents
 - [About Me](#about-me)
-- [Academic Qualifications](#academic-qualifications)
+- [Education](#Education)
 - [Project Highlights](#project-highlights)
 - [Other Projects](#other-projects)
 - [Contact](#contact)
