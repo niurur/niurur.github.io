@@ -15,12 +15,15 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 
 <div style="display: flex; align-items: center;">
   <img src="images/pp.jpg" alt="PP" style="width: 180px; height: auto; margin-right: 40px;margin-left: 40px;">
-  <p style="flex: 1;">
-    I'm a Software Engineer with a keen interest towards software development and applied research. My diverse technical background spans various fields, including Python applications, embedded electronics, cloud-based IoT solutions, and computer vision.  Apart from that, I have expertise in e-learning solutions, DevOps practices, Linux server administration and developing process automation tools.
-    <br>
-    <br>
-    I'm enthusiastic about solving complex problems and creating innovative solutions that bridge the gap between theory and real-world applications.
-  </p>
+  <div style="flex: 1;">
+    <p>
+      Red Hat Certified System Administrator (RHCSA) and DevOps-focused Software Engineer with experience in Linux server administration, Python development, and cloud platforms (AWS, Azure). Skilled in designing, deploying, and maintaining scalable systems, with hands-on expertise in CI/CD automation, monitoring, and performance optimization. Experienced in IoT and systems integration, bridging hardware and software to deliver reliable solutions.
+    </p>
+    <div style="margin-top: 10px;">
+      <img src="images/rhcsa.png" alt="RHCSA Badge" style="height: 100px; margin-right: 15px;">
+      <img src="images/aws_saa.png" alt="AWS SAA Badge" style="height: 100px;">
+    </div>
+  </div>
 </div>
 
 
