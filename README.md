@@ -1,14 +1,21 @@
 <h1 style="text-align: center;">Niuru's - Technical Portfolio</h1>
 <!-- <hr style="border:2px solid gray"> -->
-Welcome to my technical portfolio! This repository serves as a collection of my hands-on experience, academic qualifications, and projects.
+
+<p style="text-align: center;">
+Linux Infrastructure • AWS • Azure • Automation • CI/CD • Python
+</p>
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Education](#education)
-- [Project Highlights](#project-highlights)
-- [Other Projects](#other-projects)
-- [Contact](#contact)
 
+- [About Me](#about-me)
+- [Certifications](#certifications)
+- [Core Skills](#core-skills)
+- [Professional Experience](#professional-experience)
+- [Infrastructure & Cloud Projects](#infrastructure--cloud-projects)
+- [Software, Research & Engineering Projects](#software-research--engineering-projects)
+- [Other Engineering Projects](#other-engineering-projects)
+- [Education](#education)
+- [Contact](#contact)
 
 
 ## About Me
@@ -17,26 +24,20 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
   <img src="images/pp.jpg" alt="PP" style="width: 180px; height: auto; margin-right: 40px;margin-left: 40px;">
   <div style="flex: 1;">
     <p>
-      Red Hat Certified System Administrator (RHCSA) and DevOps-focused Software Engineer with experience in Linux server administration, Python development, and cloud platforms (AWS, Azure). Skilled in designing, deploying, and maintaining scalable systems, with hands-on expertise in CI/CD automation, monitoring, and performance optimization. Experienced in IoT and systems integration, bridging hardware and software to deliver reliable solutions.
-    </p>
+I am a DevOps and Cloud Engineer with experience in Linux server administration, infrastructure automation, CI/CD, and cloud platforms such as AWS and Azure.
+
+Over the years, I have worked on deploying and maintaining Linux-based applications and services, automating system administration tasks, managing databases and web services, and integrating different software and infrastructure components. My work has also included monitoring, networking, IoT systems, backend development, and troubleshooting across different environments.
+
+My background in electrical and electronic engineering has also given me experience with embedded systems, computer vision, control systems, and hardware-software integration. This helps me understand systems beyond the application layer and work comfortably across infrastructure, software, networking, and hardware.
+
+   </p>
+
+
+
 
 <div style="margin-top: 15px; display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
 
-  <img src="images/rhcsa.png"
-       alt="RHCSA Certification"
-       style="height: 100px;">
 
-  <img src="images/rhce.png"
-       alt="RHCE Certification"
-       style="height: 100px;">
-
-  <img src="images/ansible.png"
-       alt="Red Hat Ansible Certification"
-       style="height: 100px;">
-
-  <img src="images/aws_saa.png"
-       alt="AWS Solutions Architect Associate"
-       style="height: 100px;">
 
 </div>
 
@@ -44,36 +45,105 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 </div>
 
 
+## Certifications
 
-## Education
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-top: 20px;">
+
+  <div style="text-align: center; width: 170px;">
+    <img src="images/rhce.png"
+         alt="Red Hat Certified Engineer"
+         style="height: 90px;">
+    <p><strong>Red Hat Certified Engineer (RHCE)</strong></p>
+  </div>
+
+  <div style="text-align: center; width: 170px;">
+    <img src="images/rhcsa.png"
+         alt="Red Hat Certified System Administrator"
+         style="height: 90px;">
+    <p><strong>Red Hat Certified System Administrator (RHCSA)</strong></p>
+  </div>
+
+  <div style="text-align: center; width: 170px;">
+    <img src="images/ansible.png"
+         alt="Red Hat Certified Specialist in Ansible Automation"
+         style="height: 90px;">
+    <p><strong>Red Hat Certified Specialist in Ansible Automation</strong></p>
+  </div>
+
+  <div style="text-align: center; width: 170px;">
+    <img src="images/aws_saa.png"
+         alt="AWS Certified Solutions Architect Associate"
+         style="height: 90px;">
+    <p><strong>AWS Certified Solutions Architect – Associate</strong></p>
+  </div>
+
+</div>
+
+## Core Skills
+
+- **Linux & System Administration:** RHEL, Ubuntu, systemd, Nginx, server deployment, monitoring, troubleshooting and performance optimization
+- **Cloud Platforms:** AWS, Azure
+- **Automation & Scripting:** Ansible, Bash, Python
+- **CI/CD & Deployment:** CI/CD pipelines, application deployment, deployment automation, and server migrations
+- **Monitoring:** Prometheus, Grafana, system and application monitoring
+- **Databases:** PostgreSQL, MySQL, TimescaleDB
+- **Backend & Integration:** Python, FastAPI, REST APIs, MQTT
+- **Networking:** TCP/IP, server networking, network troubleshooting, Cisco, Aruba and Juniper
+- **Tools & Platforms:** Git, Docker, Moodle, Windows Server
+
+## Professional Experience
+
+### Senior DevOps Engineer — Orise Innovations (Pvt) Ltd
+**Jan 2024 – Present | Remote**
+
+- Manage and monitor Linux servers running client applications, focusing on availability, performance, and troubleshooting.
+- Deploy and configure web applications and manage supporting services including PostgreSQL and MySQL databases.
+- Implement and maintain CI/CD pipelines to automate application deployments.
+- Work with AWS and Azure infrastructure for application deployment, configuration, migration, and performance or cost optimization.
+- Perform server migrations and configuration improvements while minimizing disruption to running services.
+- Develop Python and FastAPI applications and APIs when backend development or system integration is required.
+- Design and implement IoT backend solutions using MQTT and TimescaleDB for real-time data collection and storage.
+
+### Erasmus+ Capacity Building Project — TEAL 2.0
+**Nov 2022 – Nov 2023 | Part-time, Remote**
+
+- Contributed to the development and deployment of the TEAL 2.0 e-learning platform, including Python applications and Moodle customization.
+- Deployed and tested applications, fixed issues, and supported the platform during regular operation.
+- Managed Linux production servers and Moodle instances used by partner universities in Sri Lanka, India, and Thailand.
+- Provided technical support and training to users while helping maintain the stability and security of the platform.
+
+### Consultant — Center for Education Innovation, Sri Lanka Technological Campus
+**Dec 2021 – Dec 2023**
+
+- Developed, deployed, and maintained Python applications used to automate internal processes.
+- Developed data analysis and automation tools together with interactive dashboards.
+- Maintained and improved Moodle-based e-learning systems.
+- Managed Linux server infrastructure and provided technical support for university systems and administrative applications.
+
+### Systems Engineer — VSIS (Pvt) Ltd
+**Apr 2016 – Aug 2016**
+
+- Worked on network infrastructure projects using Cisco, Aruba, and Juniper systems.
+- Conducted site inspections, analyzed customer requirements, and supported the design and implementation of network solutions.
 
 
-- **M.Sc in Engineering**
-  - Graduated from University of Peradeniya, Nov 2019.
-  - Specialized in Control Systems and Instrumentation and achieved the highest grades **(GPA 3.84/4.00)**, particularly excelling in subjects such as Pattern Recognition for Smart Systems, Artificial Intelligence for Smart Systems, and Advanced Embedded Systems Design.
-  - Thesis title: **Driver assisted steering system for reversing an articulated vehicle.**
-
-   <br>
-
-- **B.Sc Engineering (Hons) in Electrical and Electronic Engineering**
-  - Graduated from University of Peradeniya, Oct 2015.
-  - Final year project title: **Modeling a driving mechanism for a spherical robot.**
-  - This project has won first place at the IEEE undergraduate project symposium, 2015.
 
 
+## Infrastructure & Cloud Projects
+These are some of the infrastructure and cloud-related systems I have worked on, including Linux-based deployments, IoT backends, databases, APIs, and application platforms.
 <br>
-
-
-## Project Highlights
-Here are some interesting projects I've worked on that have significantly enhanced my hands-on experience in software development, Linux, computer vision, and applied research. 
 <br>
-<br>
-### **Cloud-Integrated IoT Data Logger (NodeMCU & TimescaleDB)**
-- Developed a production-ready IoT solution using **ESP8266** microcontrollers for real-time data collection and transmission.
-- Implemented secure data transport via **MQTTS (SSL/TLS)** to a cloud-hosted **Mosquitto** broker on a Linux VM.
-- Data is logged into a **PostgreSQL-TimescaleDB** instance using a dedicated Linux system service, ensuring zero data loss with QoS 2.
-- Integrated a **FastAPI** backend with API-key security to provide efficient data retrieval for web applications.
-- **Domains**: *IoT*, *Cloud Infrastructure*, *Time-Series Databases*, *Linux System Services*, *Network Security*.
+### Cloud-Integrated IoT Data Logger (NodeMCU & TimescaleDB)
+
+I designed and implemented an IoT data collection system using ESP8266 devices and a cloud-hosted Linux server.
+
+- Sensor data is transmitted using **MQTT over TLS** to a **Mosquitto broker** running on a Linux VM.
+- A dedicated Linux service processes the received messages and stores the data in **PostgreSQL with TimescaleDB**.
+- **MQTT QoS 2** is used where reliable message delivery is required.
+- A **FastAPI** backend provides access to the collected data for other applications, with API-key based authentication.
+- The main components run as separate services, which makes deployment, maintenance, and troubleshooting easier.
+
+**Technologies:** Linux, Python, FastAPI, MQTT, Mosquitto, PostgreSQL, TimescaleDB, TLS, systemd
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/FastAPI-005863?style=for-the-badge&logo=fastapi&logoColor=white" height="30">
@@ -90,207 +160,292 @@ Here are some interesting projects I've worked on that have significantly enhanc
 
 <br>
 
-### **Vision-Based Technical Drawing Analyzing Software <br> (Hauptberechnung - Software für Bearbeitungsberechnungen)**
-   - I developed a prototype software for the manufacturing industry in Germany that analyzes specific sections of technical drawings and automatically extracts content using computer vision algorithms for production time/cost estimation.
-   - Software consist of 4 modes for convinient operation [Halbautonomer Modus, Automatischer Modus, Tabellen Modus,Taschenrechner Modus]
-   - **Domains**: *Computer vision*, *Python*, *Machine learning*.
-   
-      <img src="logos/python.png" alt="Python Logo" width="100" />  
-      <img src="logos/numpy.png" alt="Numpy Logo" width="90" />
-      <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
-      <br>
-      <img src="logos/keras.png" alt="Keras Logo" width="110" />
-      <img src="logos/tensorflow.png" alt="TensorFlow Logo" width="160" />
-      <img src="logos/qt.png" alt="Qt Logo" width="60" />
 
-      <br>
+### TEAL 2.0 Platform Infrastructure
+**Erasmus+ Capacity Building Project — Technology Enabled Active Learning**
+
+TEAL 2.0 was an international university project involving 11 partner universities across Sri Lanka, India, Thailand, Italy, Norway, and Romania.
+
+I worked on the development, deployment, testing, and maintenance of the platform. My work also included Linux server administration and Moodle administration for partner universities in Sri Lanka, India, and Thailand.
+
+- Deployed and maintained applications on **Linux servers**.
+- Managed and configured **Moodle** instances used by partner universities.
+- Worked with **Nginx**, databases, and supporting application services.
+- Tested deployments, troubleshot application and server-side issues, and supported the platform during regular operation.
+- Worked with **MariaDB/Galera** database infrastructure and Python-based applications.
+- Provided technical support and training for users and administrators.
+
+**Technologies:** Linux, Ubuntu, Nginx, Python, Moodle, MariaDB, Galera, web applications, databases
+
+<img src="logos/python.png" alt="Python Logo" width="100" />
+<img src="logos/plotlydash.png" alt="Plotly Dash Logo" width="130" />
+<img src="logos/ubuntu.png" alt="Ubuntu Logo" width="140" />
+<img src="logos/nginx.png" alt="Nginx Logo" width="55" />
+<img src="logos/galera.png" alt="Galera Logo" width="140" />
+<img src="logos/mariadb.png" alt="MariaDB Logo" width="65" />
+<img src="logos/moodle.png" alt="Moodle Logo" width="140" />
+
+<br>
+<br>
+
+Project page:
+<a href="https://teal.cs.ait.ac.th" target="_blank">TEAL 2.0</a>
+
+<br>
+<br>
+
+<img src="images/teal_map.png" alt="TEAL 2.0 Partner Map" width="80%" />
+
+## Software, Research & Engineering Projects
+
+These are some selected projects from my previous work in software development, computer vision, robotics, control systems, and embedded engineering.
 
 
+### Research & Engineering Projects
 
-   <div style="margin-left: 40px;">  
-   <a href="https://youtu.be/Z7qGtxPWRwk" target="_blank" rel="noopener noreferrer">▶️ See software in action</a>
+#### Vision-Based Technical Drawing Analysis Software
+**Hauptberechnung – Software für Bearbeitungsberechnungen**
 
-   <a href="https://youtu.be/Z7qGtxPWRwk" target="_blank">
-   <img src="thumbnails/vision1.png" alt="Hauptberechnung">
-   </a>
+I developed a prototype application for the manufacturing industry in Germany to analyze selected areas of technical drawings and automatically extract information required for production time and cost estimation.
 
-   </div>
+- Computer vision algorithms were used to identify and process information from technical drawings.
+- The application included four operating modes: semi-automatic, automatic, table, and calculator modes.
+- The software was developed as a desktop application with a graphical user interface.
 
-   <br>
+**Technologies:** Python, OpenCV, NumPy, TensorFlow, Keras, Qt
 
-   <div style="margin-left: 40px;">
-   <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank" rel="noopener noreferrer">▶️ Glimpse into the interior </a>
-
-   <a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank">
-   <img src="thumbnails/dnn.png" alt="DNN">
-   </a>
-   </div>
-
+<img src="logos/python.png" alt="Python Logo" width="100" />
+<img src="logos/numpy.png" alt="NumPy Logo" width="90" />
+<img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+<img src="logos/keras.png" alt="Keras Logo" width="110" />
+<img src="logos/tensorflow.png" alt="TensorFlow Logo" width="160" />
+<img src="logos/qt.png" alt="Qt Logo" width="60" />
 
 <br>
 
-### **Spoof Detection Algorithm**
-   - A spoof detection solution developed for face recognition based access control system. 
-   - Methods were developed to recognize spoofing attempts based on classical methods and trained datasets. The developed method can differentiate a real face and a face on a digital display.
-   - This system was integrated with existing monocular surveillance cameras to enable contactless access control during Covid-19.
-   - **Domains**: *Computer vision*, *Machine learning*, *Python*.
-
-      <img src="logos/python.png" alt="Python Logo" width="100" />
-      <img src="logos/cython.png" alt="Python Logo" width="75" />
-      <img src="logos/opencv.png" alt="Python Logo" width="100" />  
-      
-      <br>
-      
-      <a href="https://www.youtube.com/watch?v=RlmB60kQhCA" target="_blank" rel="noopener noreferrer">▶️ See algorithm in action</a>
-
-
-      <a href="https://www.youtube.com/watch?v=RlmB60kQhCA" target="_blank">
-      <img src="https://img.youtube.com/vi/RlmB60kQhCA/0.jpg" alt="Spoof detection demo">
-      </a>
+<a href="https://youtu.be/Z7qGtxPWRwk" target="_blank" rel="noopener noreferrer">▶️ See software in action</a>
 
 <br>
 
-### **Driver assist system for reversing long articulated vehicles**
-   - An innovative solution developed for reversing two pivoted articulated vehicles while keeping the stability. Fully automatic prototype and a semi autonomous prototype was built.
-
-   - **Domains**:  *Robotics*, *Computer vision*, *Control systems*, *Embedded electronics*, *C++*.
-
-      <img src="logos/c.png" alt="C++ Logo" width="30" />  
-      <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
-      <img src="logos/rpi.png" alt="RaspberryPi Logo" width="120" />
-      <img src="logos/matlab.png" alt="MATLAB Logo" width="120" />
-      <img src="logos/octave.png" alt="Octave Logo" width="80" />
-
-      <br>
-
-
-      <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
-
-      <a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank">
-      <img src="thumbnails/automaticreverse.png" alt="Fully automatic prototype" width="80%" />  
-      </a>
+<a href="https://youtu.be/Z7qGtxPWRwk" target="_blank">
+  <img src="thumbnails/vision1.png" alt="Technical drawing analysis software">
+</a>
 
 <br>
 
-### **Monocular Vision-Based Obstacle Avoidance Algorithm and Networking Infrastructure for Controlling Remote Mobile Robots**
- - Development of a vision-based monocular obstacle-avoidance algorithm for mobile robots. A prototype was built, and the algorithm was tested, incorporating optical flow and edge-based obstacle avoidance methods.
- - As a part of the requirement an infrastructure developed for remotely controlling mobile robots by processing data with minimal onboard hardware. 
-- **Domains**: *Computer vision*, *Control systems*, *Robotics*, *Embedded electronics*.
+<a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank" rel="noopener noreferrer">▶️ Glimpse into the internal processing</a>
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=RgiKApZXbhc" target="_blank">
+  <img src="thumbnails/dnn.png" alt="Internal processing">
+</a>
+
+<br>
+<br>
 
 
-   <img src="logos/python.png" alt="Python Logo" width="100" />  
-   <img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+#### Spoof Detection Algorithm
 
-   <br>
+I developed a spoof detection method for an existing face-recognition-based access control system.
 
-   <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank" rel="noopener noreferrer"> ▶️ See Project Video</a>
+- The system was designed to differentiate between a real face and a face displayed on a digital screen.
+- Both classical computer vision methods and trained datasets were used during development.
+- The solution was integrated with existing monocular surveillance cameras to support contactless access control during the COVID-19 period.
 
-   <a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank">
-   <img src="thumbnails/monocular2.png" alt="Drive assist">
-   </a>
+**Technologies:** Python, Cython, OpenCV, Computer Vision, Machine Learning
+
+<img src="logos/python.png" alt="Python Logo" width="100" />
+<img src="logos/cython.png" alt="Cython Logo" width="75" />
+<img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=RlmB60kQhCA" target="_blank" rel="noopener noreferrer">▶️ See algorithm in action</a>
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=RlmB60kQhCA" target="_blank">
+  <img src="https://img.youtube.com/vi/RlmB60kQhCA/0.jpg" alt="Spoof detection demo">
+</a>
+
+<br>
+<br>
+
+
+#### Driver Assist System for Reversing Articulated Vehicles
+
+This project was developed as part of my postgraduate research on reversing articulated vehicles while maintaining system stability.
+
+- A fully automated small-scale prototype was developed to test the control algorithms.
+- An industrial-scale driver-assisted prototype was also developed.
+- Computer vision was used for path detection and later for measuring vehicle pivot angles.
+- The system combined control algorithms, embedded electronics, computer vision, and a driver interface.
+
+**Technologies:** C++, OpenCV, Raspberry Pi, MATLAB, Octave, Embedded Systems, Control Systems
+
+<img src="logos/c.png" alt="C++ Logo" width="30" />
+<img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+<img src="logos/rpi.png" alt="Raspberry Pi Logo" width="120" />
+<img src="logos/matlab.png" alt="MATLAB Logo" width="120" />
+<img src="logos/octave.png" alt="Octave Logo" width="80" />
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank" rel="noopener noreferrer">▶️ See project video</a>
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=3WWz0k3Fpig" target="_blank">
+  <img src="thumbnails/automaticreverse.png" alt="Fully automated articulated vehicle prototype" width="80%" />
+</a>
+
+<br>
+<br>
+
+
+#### Monocular Vision-Based Obstacle Avoidance and Remote Robot Control
+
+I developed and tested a monocular vision-based obstacle avoidance algorithm for a mobile robot prototype.
+
+- Optical-flow and edge-based methods were used for obstacle detection and avoidance.
+- A supporting network architecture was developed to remotely process data while keeping the onboard computing requirements low.
+- The project combined computer vision, networking, robotics, and embedded systems.
+
+**Technologies:** Python, OpenCV, Computer Vision, Robotics, Networking
+
+<img src="logos/python.png" alt="Python Logo" width="100" />
+<img src="logos/opencv.png" alt="OpenCV Logo" width="100" />
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank" rel="noopener noreferrer">▶️ See project video</a>
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=KRkiUrKuoGE" target="_blank">
+  <img src="thumbnails/monocular2.png" alt="Monocular vision mobile robot">
+</a>
+
+<br>
+<br>
+
+
+### Software & Automation Projects
+
+#### Coursera Course Selection Tool
+
+I developed a web application to help students search and select suitable Coursera courses using different search criteria.
+
+<img src="images/coursera_course_selection_tool.jpg" alt="Coursera course selection tool" width="80%" />
+
+<br>
+<br>
+
+
+#### LMS Analytics Dashboard
+
+I developed web-based dashboards for viewing student and teacher activity, together with an administrative interface for generating weekly attendance information.
+
+<img src="images/user_wise_LMS_analytics.jpg" alt="LMS analytics dashboard" width="80%" />
+
+<br>
+<br>
+
+
+#### Timetable Search and Course Rescheduling Tool
+
+I developed a web application that brings the university timetable into a single searchable interface.
+
+- Timetable entries can be searched by subject, room, lecturer, and other criteria.
+- Administrative users can reschedule classes while the system identifies available time slots and lecture rooms.
+- Potential clashes involving lecturers and students are filtered during rescheduling.
+
+<img src="images/timetable.png" alt="Timetable search and rescheduling tool" width="80%" />
+
+<br>
+<br>
+
+
+## Other Engineering Projects
+
+A few additional projects from my work in embedded systems, automation, robotics, and IoT.
+
+
+### Semi-Autonomous Mobile Robot Platform for Patient Monitoring
+
+I contributed to the project by integrating IP cameras with an NVIDIA Jetson platform and developing the Python/OpenCV pipeline used to access and process the camera feeds.
+
+<a href="https://www.youtube.com/watch?v=Uwk4hrYcE8U" target="_blank" rel="noopener noreferrer">▶️ See project video</a>
 
 <br>
 
 
-### **Erasmus+ Capacity Building Project (TEAL2.0 - Technology Enabled Active Learning)**
+### Semi-Automated Fabric Puller Machine
 
-- Project page: <a href="https://teal.cs.ait.ac.th" target="_blank"> https://teal.cs.ait.ac.th </a>
-- The TEAL 2.O project is implemented by a consortium of 11 universities from Sri Lanka, India, Thailand, Italy, Norway and Romania. The TEAL2.O project will develop and deploy an open access platform for technology-enabled learning environment that will facilitate the design and delivery of quality ODL in Science & Technology higher education.
-- I worked as a developer and as a teacher/trainer/reseacher to make this project a success. I was resposible for developments, deployments and testing of the application in the servers.
-- Apart from that I did Linux server management and Moodle administration across partner universities in Thailand, India and Sri
-Lanka.
-- **Domains**: *Web applications*, *APIs*, *Moodle*, *Linux*, *Server administration*, *Databases*, *Database clusters*. 
+Developed during my undergraduate industrial training.
 
-   <img src="logos/python.png" alt="Python Logo" width="100" />
-   <img src="logos/plotlydash.png" alt="Plotly Dash Logo" width="130" />
-   <img src="logos/ubuntu.png" alt="Ubuntu Logo" width="140" />
-   <img src="logos/nginx.png" alt="Nginx Logo" width="55" />
+- I developed the embedded software and electronic design for a machine used to semi-automate the turning of fabric straps.
+- The system was designed to process multiple fabric straps at the same time.
 
-
-   <img src="logos/galera.png" alt="Galera Logo" width="140" />
-   <img src="logos/mariadb.png" alt="MariaDB Logo" width="65" />
-   <img src="logos/moodle.png" alt="Moodle Logo" width="140" />
-   <br>
-   <br>
-
-- Partner map
-
-   <img src="images/teal_map.png" alt="TEAL Partner Map" width="80%" />  
-
-<br>
-
-### **Coursera course selection tool**
-- An web app for students to easily search for optimum courses to study using various search criteria.
-<!-- - Visit app: <a href="https://apps.sltc.ac.lk/coursera-course-selection" target="_blank"> https://apps.sltc.ac.lk/coursera-course-selection </a> -->
-
-- App dashboard preview 
-
-   <img src="images/coursera_course_selection_tool.jpg" alt="TEAL Partner Map" width="80%" /> 
-
-
-
-
-### **LMS analytics dashboard**
-- Web-based dashboards to view student/teacher performance and admin panel to generate weekly attendance.
-
-- App dashboard preview 
-
-   <img src="images/user_wise_LMS_analytics.jpg" alt="TEAL Partner Map" width="80%" /> 
-
-
-<br>
-
-### **Time table search and course rescheduling tool**
--  Entire university timetable at one place where anyone can search by subjects, rooms, teachers etc.
-
-- Admins can reschedule courses, with the app automatically displaying available time slots and lecture rooms, filtering out any potential clashes between teachers and students. 
-
-- App preview 
-
-   <img src="images/timetable.png" alt="TEAL Partner Map" width="80%" /> 
-
+<a href="https://youtube.com/shorts/NxAfiiuhjH0" target="_blank" rel="noopener noreferrer">▶️ See machine in action</a>
 
 <br>
 
 
+### Fully Automated Elastic Ring Machine
 
-## Other Projects
+Developed during my undergraduate industrial training.
 
-### **Semi Autonomous Mobile Robot Platform for Patient Monitoring**
-- I contributed to this project by integrating the IP cameras with NVIDIA® Jetson and developing the OpenCV, Python pipeline for accessing the cameras.  
-- <a href="https://www.youtube.com/watch?v=Uwk4hrYcE8U" target="_blank">
-   https://www.youtube.com/watch?v=Uwk4hrYcE8U
-   </a>
+- I contributed to the development of a machine that automatically produces elastic rings in different sizes.
+- My work included embedded software development and electronic system design.
 
-### **Semi-Automated Fabric Puller Machine**
-- Creation of a machine to semi-automate the turning mechanism of fabric straps, allowing processing of multiple straps simultaneously.
-- I developed the embedded software and the electronic design for the machine. Completed during undergraduate industrial training.
-- <a href="https://youtube.com/shorts/NxAfiiuhjH0" target="_blank">
-   https://youtube.com/shorts/NxAfiiuhjH0
-   </a>
-
-
-### **Fully Automated Elastic Ring Machine**
-- Development of a fully automated machine capable of stitching elastic rings at different sizes when raw materials are loaded.
-- I contrubuted to the project by writing the embedded software and designing the electronics.  Completed during undergraduate industrial training.
-- <a href="https://youtu.be/ZxNXgUo5cGw" target="_blank">
-   https://youtu.be/ZxNXgUo5cGw
-   </a>
-
-### **2D Plotter**
-- A simple 2D plotter based on GRBL made as a hobby project, capable of wireless connectivity with computers through Bluetooth for sending G-codes.
-- <a href="https://youtu.be/J0Gonuj2iAM" target="_blank">
-   https://youtu.be/J0Gonuj2iAM
-   </a>
-
-### **Smart Garden**
-- An IoT hobby project, with the ability to automatically control the lighting conditions, watering the plants according
-   to the requirements, sending Twitter alerts in emergencies and monitoring the parameters over the internet.
-- <a href="other/smartGarden.pdf" target="_blank">🗎 View block diagram. </a>
-
-
+<a href="https://youtu.be/ZxNXgUo5cGw" target="_blank" rel="noopener noreferrer">▶️ See machine in action</a>
 
 <br>
+
+
+### 2D Plotter
+
+A hobby project based on GRBL, with Bluetooth connectivity for sending G-code wirelessly from a computer.
+
+<a href="https://youtu.be/J0Gonuj2iAM" target="_blank" rel="noopener noreferrer">▶️ See project video</a>
+
+<br>
+
+
+### Smart Garden
+
+A small IoT project developed to monitor and automatically control basic garden conditions.
+
+- Automatically controls lighting and plant watering based on configured conditions.
+- Monitors system parameters over the internet.
+- Sends alerts when abnormal conditions are detected.
+
+<a href="other/smartGarden.pdf" target="_blank">🗎 View block diagram</a>
+
+<br>
+
+
+## Education
+
+### M.Sc. in Engineering - University of Peradeniya
+**2019 | GPA: 3.84/4.00**
+
+Specialized in Control Systems and Instrumentation, with subjects including artificial intelligence, pattern recognition, and advanced embedded systems.
+
+**Thesis:** *Driver Assisted Steering System for Reversing an Articulated Vehicle*
+
+<br>
+
+
+### B.Sc. Engineering (Hons) in Electrical and Electronic Engineering - University of Peradeniya
+**2015**
+
+**Final Year Project:** *Modeling a Driving Mechanism for a Spherical Robot*
+
+The project won first place at the IEEE Undergraduate Project Symposium in 2015.
+
 
 ## Contact
 
