@@ -93,8 +93,8 @@ My background in electrical and electronic engineering has also given me experie
 
 ## Professional Experience
 
-### Senior DevOps Engineer — Orise Innovations (Pvt) Ltd
-**Jan 2024 – Present | Remote**
+### Senior DevOps Engineer - Orise Innovations (Pvt) Ltd
+**Jan 2024 - Present | Remote**
 
 - Manage and monitor Linux servers running client applications, focusing on availability, performance, and troubleshooting.
 - Deploy and configure web applications and manage supporting services including PostgreSQL and MySQL databases.
@@ -104,24 +104,24 @@ My background in electrical and electronic engineering has also given me experie
 - Develop Python and FastAPI applications and APIs when backend development or system integration is required.
 - Design and implement IoT backend solutions using MQTT and TimescaleDB for real-time data collection and storage.
 
-### Erasmus+ Capacity Building Project — TEAL 2.0
-**Nov 2022 – Nov 2023 | Part-time, Remote**
+### Erasmus+ Capacity Building Project - TEAL 2.0
+**Nov 2022 - Nov 2023 | Part-time, Remote**
 
 - Contributed to the development and deployment of the TEAL 2.0 e-learning platform, including Python applications and Moodle customization.
 - Deployed and tested applications, fixed issues, and supported the platform during regular operation.
 - Managed Linux production servers and Moodle instances used by partner universities in Sri Lanka, India, and Thailand.
 - Provided technical support and training to users while helping maintain the stability and security of the platform.
 
-### Consultant — Center for Education Innovation, Sri Lanka Technological Campus
-**Dec 2021 – Dec 2023**
+### Consultant - Center for Education Innovation, Sri Lanka Technological Campus
+**Dec 2021 - Dec 2023**
 
 - Developed, deployed, and maintained Python applications used to automate internal processes.
 - Developed data analysis and automation tools together with interactive dashboards.
 - Maintained and improved Moodle-based e-learning systems.
 - Managed Linux server infrastructure and provided technical support for university systems and administrative applications.
 
-### Systems Engineer — VSIS (Pvt) Ltd
-**Apr 2016 – Aug 2016**
+### Systems Engineer - VSIS (Pvt) Ltd
+**Apr 2016 - Aug 2016**
 
 - Worked on network infrastructure projects using Cisco, Aruba, and Juniper systems.
 - Conducted site inspections, analyzed customer requirements, and supported the design and implementation of network solutions.
