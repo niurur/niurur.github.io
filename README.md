@@ -19,13 +19,29 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
     <p>
       Red Hat Certified System Administrator (RHCSA) and DevOps-focused Software Engineer with experience in Linux server administration, Python development, and cloud platforms (AWS, Azure). Skilled in designing, deploying, and maintaining scalable systems, with hands-on expertise in CI/CD automation, monitoring, and performance optimization. Experienced in IoT and systems integration, bridging hardware and software to deliver reliable solutions.
     </p>
-    <div style="margin-top: 10px;">
-      <img src="images/rhcsa.png" alt="RHCSA Badge" style="height: 100px; margin-right: 15px;">
-      <img src="images/aws_saa.png" alt="AWS SAA Badge" style="height: 100px;">
-    </div>
+
   </div>
 </div>
 
+<div style="margin-top: 15px; display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
+
+  <img src="images/rhcsa.png"
+       alt="RHCSA Certification"
+       style="height: 100px;">
+
+  <img src="images/rhce.png"
+       alt="RHCE Certification"
+       style="height: 100px;">
+
+  <img src="images/ansible.png"
+       alt="Red Hat Ansible Certification"
+       style="height: 100px;">
+
+  <img src="images/aws_saa.png"
+       alt="AWS Solutions Architect Associate"
+       style="height: 100px;">
+
+</div>
 
 ## Education
 
@@ -49,6 +65,27 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
 ## Project Highlights
 Here are some interesting projects I've worked on that have significantly enhanced my hands-on experience in software development, Linux, computer vision, and applied research. 
 <br>
+<br>
+### **Cloud-Integrated IoT Data Logger (NodeMCU & TimescaleDB)**
+- Developed a production-ready IoT solution using **ESP8266** microcontrollers for real-time data collection and transmission.
+- Implemented secure data transport via **MQTTS (SSL/TLS)** to a cloud-hosted **Mosquitto** broker on a Linux VM.
+- Data is logged into a **PostgreSQL-TimescaleDB** instance using a dedicated Linux system service, ensuring zero data loss with QoS 2.
+- Integrated a **FastAPI** backend with API-key security to provide efficient data retrieval for web applications.
+- **Domains**: *IoT*, *Cloud Infrastructure*, *Time-Series Databases*, *Linux System Services*, *Network Security*.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/FastAPI-005863?style=for-the-badge&logo=fastapi&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/TimescaleDB-F15A29?style=for-the-badge&logo=timescale&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white" height="30">
+
+<br>
+<br>
+
+<!-- Placeholder for Project Image -->
+<!-- <img src="images/iot_data_logger.jpg" alt="IoT Data Logger" width="80%" /> -->
+
 <br>
 
 ### **Vision-Based Technical Drawing Analyzing Software <br> (Hauptberechnung - Software für Bearbeitungsberechnungen)**
