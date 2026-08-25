@@ -446,7 +446,7 @@ Specialized in Control Systems and Instrumentation, with subjects including arti
 
 The project won first place at the IEEE Undergraduate Project Symposium in 2015.
 
-
+<br><br>
 ## Contact
 
 
