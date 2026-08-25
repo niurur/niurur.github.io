@@ -20,9 +20,6 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
       Red Hat Certified System Administrator (RHCSA) and DevOps-focused Software Engineer with experience in Linux server administration, Python development, and cloud platforms (AWS, Azure). Skilled in designing, deploying, and maintaining scalable systems, with hands-on expertise in CI/CD automation, monitoring, and performance optimization. Experienced in IoT and systems integration, bridging hardware and software to deliver reliable solutions.
     </p>
 
-  </div>
-</div>
-
 <div style="margin-top: 15px; display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
 
   <img src="images/rhcsa.png"
@@ -42,6 +39,11 @@ Welcome to my technical portfolio! This repository serves as a collection of my 
        style="height: 100px;">
 
 </div>
+
+  </div>
+</div>
+
+
 
 ## Education
 
